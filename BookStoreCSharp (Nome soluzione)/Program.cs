@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 /* In questo esercizio vogliamo inserire in maniera “hardcoded” (ossia scritte nel codice senza dover chiedere all’utente nessun input) tutte le informazioni che troviamo su Amazon di un libro (per esempio "Clean Code") per poi stamparne una piccola sintesi fatta bene.
 Le informazioni sul libro che dobbiamo chiedere all’utente sono le seguenti:
 Titolo
@@ -38,3 +39,4 @@ Console.WriteLine("Valutazione media: " + valutazione + " su 5");
 Console.WriteLine("Numero di Recensioni: " + numRecensioni);
 Console.WriteLine("E' disponibile nella versione kindle?: " + versioneKindle);
 Console.WriteLine("La copertina è flessibile?: " + versioneCopertina);
+
