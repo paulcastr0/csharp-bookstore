@@ -35,6 +35,7 @@ string copertina = versioneCopertina.ToString();
 copertina = "Si";
 
 
+
 Console.WriteLine("Titolo: " + titolo);
 Console.WriteLine("Autore: " + autore);
 Console.WriteLine("Numero di Pagine: " + isbn);
